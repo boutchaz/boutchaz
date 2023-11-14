@@ -4,4 +4,4 @@ Raised in Settat, I moved to my birthplace of El Jadida to pursue my interest in
 
 ## Get in touch
 - Twitter: https://twitter.com/boutchaz
-- Personal site: https://www.boutchaz.com/
+- Personal site: https://www.boutchaz.dev/
