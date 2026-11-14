@@ -1,0 +1,30 @@
+{
+  "login": "boutchaz",
+  "name": ["ZAKARIA", "BOUTCHAMIR"],
+  "role": "FOUNDER · CODELOVERS",
+  "stack": ["TYPESCRIPT", "REACT", "NESTJS", "FASTAPI", "IOT"],
+  "location": "MOROCCO",
+  "about": "I run CodeLovers, a small web agency in Morocco. 7+ years shipping enterprise web and mobile apps, multi-tenant SaaS and IoT systems, from MVP to production. I care about boring-reliable infrastructure, honest tenant isolation and software that operators actually trust.",
+  "site": "https://wearecodelovers.com",
+  "feed": "https://wearecodelovers.com/rss.xml",
+  "metrics": [
+    { "value": "7+", "label": "YEARS" },
+    { "value": "20+", "label": "ENTERPRISE PROJECTS" },
+    { "value": "6+", "label": "SAAS PLATFORMS" }
+  ],
+  "targets": [
+    { "label": "SNOOKLY", "tag": "SAAS · LIVE", "desc": "Snooker club ops: RFID cards, live scoring, café POS.", "url": "https://wearecodelovers.com/case-studies/snookly" },
+    { "label": "AGROGINA", "tag": "AGTECH · LIVE", "desc": "Farm management with satellite NDVI crop monitoring.", "url": "https://wearecodelovers.com/case-studies/agrogina" },
+    { "label": "PASSION FITNESS", "tag": "SAAS · LIVE", "desc": "Multi-tenant martial arts gym platform with mobile app.", "url": "https://wearecodelovers.com/case-studies/passion-fitness" },
+    { "label": "LOGINTEL", "tag": "IOT · COLD CHAIN", "desc": "Real-time cold-chain monitoring for temperature-sensitive goods.", "url": "https://wearecodelovers.com/case-studies/logintel-saas" },
+    { "label": "WHATSAPP BOT", "tag": "AUTOMATION", "desc": "Reservation bot that books tables straight from WhatsApp.", "url": "https://wearecodelovers.com/case-studies/whatsapp-reservation-bot" },
+    { "label": "PI CAR VIDEO LAB", "tag": "RASPBERRY PI", "desc": "Learning notebook: Raspberry Pi 4 video to a factory Tiguan screen.", "url": "https://github.com/boutchaz/pi-car-video-lab" }
+  ],
+  "posts": { "count": 3, "all_posts_url": "https://wearecodelovers.com/blog" },
+  "contacts": [
+    { "label": "WEBSITE", "url": "https://wearecodelovers.com" },
+    { "label": "BLOG", "url": "https://wearecodelovers.com/blog" },
+    { "label": "X", "url": "https://twitter.com/boutchaz" },
+    { "label": "GITHUB", "url": "https://github.com/boutchaz" }
+  ]
+}

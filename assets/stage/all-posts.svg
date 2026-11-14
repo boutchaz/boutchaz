@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 52" width="900" height="52" role="img" aria-label="All posts on wearecodelovers.com"><title>All posts on wearecodelovers.com</title><style>
+text{font-family:ui-monospace,'Geist Mono',SFMono-Regular,Menlo,Consolas,monospace}
+.s{font-family:'Geist',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif}
+.in{animation:in .6s ease-out both}
+@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.blink{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.glow{animation:glow 4s ease-in-out infinite alternate}
+@keyframes glow{from{opacity:.55}to{opacity:1}}
+.mq{animation:mq 28s linear infinite}
+@keyframes mq{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><defs>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1e2236" stroke-width="1" opacity=".55"/></pattern>
+<radialGradient id="g1" cx="85%" cy="0%" r="70%"><stop offset="0" stop-color="#e11d48" stop-opacity=".38"/><stop offset="1" stop-color="#e11d48" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0%" cy="100%" r="60%"><stop offset="0" stop-color="#6366f1" stop-opacity=".22"/><stop offset="1" stop-color="#6366f1" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#e11d48"/><stop offset="1" stop-color="#fb7185"/></linearGradient>
+</defs><rect width="900" height="52" rx="14" fill="#05060f"/><rect width="900" height="52" fill="#0b0d1c" rx="14"/><text x="450.0" y="32" font-size="13" fill="#fb7185" text-anchor="middle" letter-spacing="3">ALL POSTS · WEARECODELOVERS.COM/BLOG →</text><rect x=".5" y=".5" width="899" height="51" rx="14" fill="none" stroke="#1e2236"/></svg>

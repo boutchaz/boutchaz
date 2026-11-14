@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "repos": 29,
+    "followers": 7,
+    "stars": 0
+  },
+  "posts": [
+    {
+      "title": "Why we\u2019re building AgroGina\u2014and where we\u2019re going",
+      "url": "https://wearecodelovers.com/blog/why-we-are-building-agrogina/",
+      "date": "13 Nov 2026"
+    },
+    {
+      "title": "Our tech stack in 2026 H2: web, mobile and agent harnesses",
+      "url": "https://wearecodelovers.com/blog/tech-stack-2026-h2/",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "R\u00e9servation de cours : remplir vos s\u00e9ances sans appeler chaque membre",
+      "url": "https://wearecodelovers.com/blog/reservation-cours-salle-de-sport/",
+      "date": "08 Nov 2026"
+    }
+  ]
+}
